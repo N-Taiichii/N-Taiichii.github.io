@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.896359b7.css",
+    "main.js": "/static/js/main.fa3a725f.js",
+    "static/media/Interactive-map.JPG": "/static/media/Interactive-map.5e040b808314ffaa592d.JPG",
+    "static/media/Portrait.jpg": "/static/media/Portrait.73a06747427aa7ccb793.jpg",
+    "static/media/Resume_2022.pdf": "/static/media/Resume_2022.a9cd0f7e95803df8dff3.pdf",
+    "static/media/MKM_pic.JPG": "/static/media/MKM_pic.0bd9e808e45e50321c9c.JPG",
+    "index.html": "/index.html",
+    "main.896359b7.css.map": "/static/css/main.896359b7.css.map",
+    "main.fa3a725f.js.map": "/static/js/main.fa3a725f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896359b7.css",
+    "static/js/main.fa3a725f.js"
+  ]
+}
